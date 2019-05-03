@@ -1,2 +1,3 @@
 permissoes.xml filter=git-crypt diff=git-crypt
 senhas.xml filter=git-crypt diff=git-crypt
+logfile.log filter=git-crypt diff=git-crypt
